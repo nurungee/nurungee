@@ -3,7 +3,7 @@
 Hi I'm B
 I'm interested in Big Data and Web development
 currently learning springframework
-![B's github stats](https://github-readme-stats.vercel.app/api?username=jaySHKorea)](https://github.com/anuraghazra/github-readme-stats)
+![B's github stats](https://github-readme-stats.vercel.app/api?username=jaySHKorea)
 
 <!--
 **jaySHKorea/jaySHKorea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
