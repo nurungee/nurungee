@@ -6,7 +6,7 @@ I'm currently learning springframework
 
 ### Interest
 - Data Analysis and Engineering in Financial Field
-- Backend web development
+- Backend development
 - Games
 
 ![B's github stats](https://github-readme-stats.vercel.app/api?username=jaySHKorea)
