@@ -1,9 +1,9 @@
 ## B 🧢 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FjaySHKorea&count_bg=%23FF9D00&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ### Seunghye Jung
-Hi this is B, seunghye Jung
+Hi this is B, seunghye Jung :)
 
-I'm currently learning springframework
+I'm currently learning springframework and web development!
 
 ### ✨ Interest
 - Data Analysis and Engineering in Financial Field
