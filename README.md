@@ -1,8 +1,14 @@
 ## B🧢 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FjaySHKorea&count_bg=%23FF9D00&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-Hi I'm B
-I'm interested in Big Data and Web development
-currently learning springframework
+### Seunghye Jung
+Hi this is B, seunghye Jung
+I'm currently learning springframework
+
+### Interest
+- Data Analysis and Engineering in Financial Field
+- Backend web development
+- Games
+
 ![B's github stats](https://github-readme-stats.vercel.app/api?username=jaySHKorea)
 
 <!--
