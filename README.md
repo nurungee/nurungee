@@ -1,10 +1,9 @@
 ## B🧢 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FjaySHKorea&count_bg=%23FF9D00&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
----
 
 Hi I'm B
 I'm interested in Big Data and Web development
 currently learning springframework
-[!B's github stats](https://github-readme-stats.vercel.app/api?username=jaySHKorea)](https://github.com/anuraghazra/github-readme-stats)
+![B's github stats](https://github-readme-stats.vercel.app/api?username=jaySHKorea)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **jaySHKorea/jaySHKorea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
