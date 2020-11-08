@@ -3,7 +3,7 @@
 ### Seunghye Jung
 Hi this is B, seunghye Jung :)
 
-I'm currently learning springframework and web development!
+I'm currently learning spring framework and web development!
 
 ### ✨ Interest
 - Data Analysis and Engineering in Financial Field
