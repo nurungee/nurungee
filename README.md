@@ -4,7 +4,7 @@
 
 </div>
 
-## Seunghye Jung   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seung2586@gmail.com)](mailto:seung2586@gmail.com)
+## Seunghye Jung       [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seung2586@gmail.com)](mailto:seung2586@gmail.com)
 
 ### ✨ Interest
 - Backend development
