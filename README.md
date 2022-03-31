@@ -9,7 +9,6 @@
 ### ✨ Interest
 - Backend development
 - Data analysis and engineering in financial field
-- Games
 
 ![B's github stats](https://github-readme-stats.vercel.app/api?username=jaySHKorea)
 <!--
