@@ -10,7 +10,7 @@
 - Backend development
 - Data analysis and engineering in financial field
 
-![B's github stats](https://github-readme-stats.vercel.app/api?username=jaySHKorea)
+![Jay's github stats](https://github-readme-stats.vercel.app/api?username=nurungee)
 <!--
 **jaySHKorea/jaySHKorea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
